@@ -1,0 +1,20 @@
+body {
+    background-image: url(../img/carbon_fibre.png);
+}
+
+.logo {
+    font-family: 'Raleway', 'sans-serif';
+}
+
+.logo a {
+    color: rgba(0,0,0,.9);
+    text-shadow: -1px -1px 0 #fff,
+                1px -1px 0 #fff,
+                -1px 1px 0 #fff,
+                1px 1px 0 #fff;
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
